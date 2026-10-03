@@ -1,0 +1,9 @@
+# Keep heavy datasets out of the repository
+data/
+
+# Ignore system and cache files
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
