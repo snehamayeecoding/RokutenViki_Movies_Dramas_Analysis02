@@ -1,5 +1,9 @@
-# Keep heavy datasets out of the repository
-data/
+# Keep heavy datasets out of the repository, preserve the folder structure
+data/*
+!data/raw/
+!data/processed/
+data/raw/*
+data/processed/*
 
 # Ignore system and cache files
 __pycache__/
@@ -7,3 +11,4 @@ __pycache__/
 .venv/
 venv/
 .env
+.vscode/
