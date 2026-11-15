@@ -24,7 +24,7 @@ An end-to-end data cleaning, feature engineering, and exploratory data analysis 
 ## 📊 Key Analytical Insights 
 * **1. Content type and Genres Dominance by Volume:** `Dramas` dominate `Movies` in the platform and `Drama`, `Romance` and `Comedy` are the most dominating genres in the catalog.
 * **2. Production Country Dominance:** Korea(**KR**), China(**CN**) and Japan(**JP**) are the major production countries.
-* **Genre Dominance by IMDb Score and Votes:** Though Drama, Romance and Comedy top the genre list by volume , on the basis of IMDb score and votes `History` and `Sci-fi` tops the list followed by `Reality`, `Music` and `Romance`(well Romance keeps its position in top 5 with an average IMDb score of 7.18)
+* **3. Genre Dominance by IMDb Score and Votes:** Though Drama, Romance and Comedy top the genre list by volume , on the basis of IMDb score and votes `History` and `Sci-fi` tops the list followed by `Reality`, `Music` and `Romance`(well Romance keeps its position in top 5 with an average IMDb score of 7.18)
 
 ## 🚀 Next Steps
 * **Power BI Dashboard:** Building an interactive executive report using the exported `cleaned_titles` and exploded tables.
