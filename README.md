@@ -29,4 +29,7 @@ An end-to-end data cleaning, feature engineering, and exploratory data analysis 
 ## 🚀 Next Steps
 * **Power BI Dashboard:** Building an interactive executive report using the exported `cleaned_titles` and exploded tables.
 * **ML Recommendation System:** Developing a title-based recommendation engine on the cleaned Rakuten Viki catalog.
-*
+
+## **Connect with me:**
+GitHub: [snehamayeecoding](https://github.com/snehamayeecoding)
+LinkedIn: [snehamayee behera](www.linkedin.com/in/snehamayee-behera-data)
