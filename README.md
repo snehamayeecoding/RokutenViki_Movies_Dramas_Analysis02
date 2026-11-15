@@ -31,5 +31,5 @@ An end-to-end data cleaning, feature engineering, and exploratory data analysis 
 * **ML Recommendation System:** Developing a title-based recommendation engine on the cleaned Rakuten Viki catalog.
 
 ## **Connect with me:**
-GitHub: [snehamayeecoding](https://github.com/snehamayeecoding)
+GitHub: [snehamayeecoding](https://github.com/snehamayeecoding)  
 LinkedIn: [snehamayee behera](www.linkedin.com/in/snehamayee-behera-data)
